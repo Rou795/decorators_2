@@ -1,0 +1,20 @@
+Time start: 2023-10-08 17:14:23.075415
+Function name: hello_world
+Arguments: (),{}
+Result: Hello World
+
+Time start: 2023-10-08 17:14:23.076899
+Function name: summator
+Arguments: (2, 2),{}
+Result: 4
+
+Time start: 2023-10-08 17:14:23.076899
+Function name: div
+Arguments: (6, 2),{}
+Result: 3.0
+
+Time start: 2023-10-08 17:14:23.077396
+Function name: summator
+Arguments: (4.3,),{'b': 2.2}
+Result: 6.5
+
